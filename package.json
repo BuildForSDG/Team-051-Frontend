@@ -12,12 +12,36 @@
     "test": "jest"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "@mdi/font": "^5.3.45",
+    "@nuxtjs/axios": "^5.10.3",
+    "bootstrap": "^4.5.0",
+    "chart.js": "^2.9.3",
+    "eslint": "^7.1.0",
+    "et-line": "^1.0.1",
+    "flag-icon-css": "^3.4.6",
+    "font-awesome": "^4.7.0",
+    "ionicons": "^5.0.1",
+    "jquery": "^3.5.1",
+    "jqvmap": "^1.5.1",
+    "jvectormap": "^2.0.4",
+    "lity": "^2.4.1",
+    "material-design-icons": "^3.0.1",
+    "node-sass": "^4.14.1",
+    "nuxt": "^2.12",
+    "sass-loader": "^8.0.2",
+    "typicons.font": "^2.0.9",
+    "vue-chartjs": "^3.5.0",
+    "vue-ionicons": "^3.0.4",
+    "vue-material-design-icons": "^4.7.1",
+    "vue-owl-carousel": "^2.0.3",
+    "webpack-filter-warnings-plugin": "^1.2.1",
+    "webpack-hot-middleware": "^2.25.0"
   },
   "devDependencies": {
     "@vue/test-utils": "^1.0.0-beta.27",
-    "babel-jest": "^24.1.0",
-    "jest": "^24.1.0",
-    "vue-jest": "^4.0.0-0"
+    "babel-jest": "^26.0.1",
+    "eslint-loader": "^4.0.2",
+    "jest": "^26.0.1",
+    "vue-jest": "^3.0.5"
   }
 }
