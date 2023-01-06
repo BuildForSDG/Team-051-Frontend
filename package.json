@@ -27,7 +27,7 @@
     "lity": "^2.4.1",
     "material-design-icons": "^3.0.1",
     "node-sass": "^4.14.1",
-    "nuxt": "^2.12",
+    "nuxt": "^2.15",
     "sass-loader": "^8.0.2",
     "typicons.font": "^2.0.9",
     "vue-chartjs": "^3.5.0",
@@ -42,6 +42,6 @@
     "babel-jest": "^26.0.1",
     "eslint-loader": "^4.0.2",
     "jest": "^26.0.1",
-    "vue-jest": "^3.0.5"
+    "vue-jest": "^4.0.1"
   }
 }
